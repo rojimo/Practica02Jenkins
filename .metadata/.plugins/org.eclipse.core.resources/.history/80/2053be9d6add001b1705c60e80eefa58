@@ -6,7 +6,6 @@ public class Main {
 		System.out.println("hola desde Github");
 		System.out.println("hola desde Github tropecientas pruebas después");
 		System.out.println("hola desde Github tropecientas+1 pruebas después");
-		System.out.println("hola desde Github tropecientas+2 pruebas después");
 
 	}
 
